@@ -1,13 +1,13 @@
 Certainly! If you have used Knex migrations to define the database schema, you can mention that in the README.md. Here's an updated version reflecting that:
 
 ```markdown
-# 📚 Library Management System API
+## 📚 Library Management System API
 
 Welcome to the Library Management System API! This Node.js project allows you to manage your library's book collection with ease. Whether you're adding new books, editing details, or searching for specific titles, we've got you covered. Additionally, user authentication and registration are included for added security.
 
 ## 🚀 Features
 
-### Authentication and Registration
+## Authentication and Registration
 
 - **User Login:**
   - Endpoint: `POST /login`
@@ -16,7 +16,7 @@ Welcome to the Library Management System API! This Node.js project allows you to
   - Endpoint: `POST /register`
   - Enables users to register by providing necessary information.
 
-### Basic CRUD Operations
+## Basic CRUD Operations
 
 1. **Add a New Book**
    - Endpoint: `POST /addbook`
@@ -51,7 +51,7 @@ The database schema is defined using Knex migrations. You can find the migration
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/library-management-api.git
+   git clone https://github.com/your-username/library-management-api.git](https://github.com/devsathwara/rest-api-library.git
    ```
 
 2. **Install Dependencies:**
@@ -87,6 +87,3 @@ Contributions are welcome! If you find any issues or want to add new features, p
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
-```
-
-Make sure to replace placeholders like `your-username` and `your-port` with your actual GitHub username and the port where your API will be running. Also, ensure that the `migrate` script actually runs your Knex migrations.
