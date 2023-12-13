@@ -1,6 +1,4 @@
-Certainly! If you have used Knex migrations to define the database schema, you can mention that in the README.md. Here's an updated version reflecting that:
 
-```markdown
 ## 📚 Library Management System API
 
 Welcome to the Library Management System API! This Node.js project allows you to manage your library's book collection with ease. Whether you're adding new books, editing details, or searching for specific titles, we've got you covered. Additionally, user authentication and registration are included for added security.
