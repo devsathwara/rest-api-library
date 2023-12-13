@@ -82,6 +82,3 @@ Use tools like Postman or testing libraries like Mocha and Chai to test the API 
 
 Contributions are welcome! If you find any issues or want to add new features, please open an issue or submit a pull request.
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
